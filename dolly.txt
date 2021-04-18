@@ -3,3 +3,4 @@ doctors are good human beings
 it is devops training
 java home provides training on devops
 we are starting webinars on devops
+tomorrow we have demo on aws
